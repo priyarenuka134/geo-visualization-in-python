@@ -1,0 +1,34 @@
+Course Objectives : 
+In this course, we are going to focus on two learning objectives:
+
+1) Work with Folium to create maps.
+2) Create and visualize geographical maps in Python.
+
+By the end of this course, you will be able to generate and visualize geographical plots on maps.
+
+Course Structure : 
+This course is divided into 3 parts:
+
+Course Overview: This introductory reading material.
+1) Geo-Visualization in Python: This is the hands-on project that we will work on in Rhyme.
+2) Graded Quiz: This is the final assignment that you need to pass in order to finish the course successfully. 
+
+Project Structure :  
+
+Now we will generate and visualize geographical maps that are useful for data science projects.
+We will accomplish it in by completing each task in the project:
+
+1) Defining Geo-visualization and the Goal of the Project
+
+2) Generating Basic Maps with Folium
+
+3) Generating Stamen Toner and Stamen Terrain Maps
+
+4) Plotting cities in the World Map
+
+5) Geo-Visualization in Real World
+
+While you are watching me work on each step, you will get a 
+cloud desktop with all the required software pre-installed. 
+This will allow you to follow along the instructions to complete the above-mentioned tasks. 
+After all, we learn best with active, hands-on learning.
